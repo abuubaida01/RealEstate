@@ -1,6 +1,7 @@
 # internal 
 .env 
-
+node_modules
+staticfiles
 # Django #
 *.log
 *.pot
